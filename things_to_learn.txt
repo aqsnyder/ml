@@ -1,0 +1,7 @@
+x 3Blue1Brown series 
+  karpathy series
+  Andrew ng specialization course\
+  1 day py torch course
+  illya read list
+  MNIST data set example
+  

@@ -1,2 +1,1 @@
-https://course.fast.ai/
-https://course.fast.ai/Resources/book.html
+Contributed to the development of critical technology at a small startup, directly supporting the pathway toward FDA 510(k) clearance of medical devices.
